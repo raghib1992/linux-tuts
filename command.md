@@ -58,7 +58,7 @@ ln -s
 ****************
 ## to archive used to combined multiple directory in one
 ```
-tar -cvf(create verbose fore) file.tar folder
+tar -cvf(create verbose force) file.tar folder
 ```
 ## to compress the file to reduce the size
 ```

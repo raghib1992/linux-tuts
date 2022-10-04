@@ -1,2 +1,2 @@
 install nmap tool
-yum install nmap    
+yum install nmap   
