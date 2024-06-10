@@ -75,4 +75,4 @@ grep -A1 Arsenal premier-league.txt
 
 To print the line atching pattern and one line before
 
-grep -B1 Arsenal premier-league.txt
+grep -B 1 Arsenal premier-league.txt

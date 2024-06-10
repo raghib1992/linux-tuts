@@ -63,3 +63,6 @@ apt edit-sources
 ```
 
 ### Can update the package using updating source.list file
+
+
+![alt text](image-10.png)
