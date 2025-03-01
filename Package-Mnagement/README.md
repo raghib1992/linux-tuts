@@ -20,7 +20,11 @@ yum list ansible
 yum remove ansible
 yum --showduplicates list ansible
 ```
-
+#### show installed package
+```
+rpm -qa
+rpm -q ansible
+```
 
 ![alt text](image.png)
 
